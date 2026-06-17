@@ -1,0 +1,17 @@
+{
+  "name": "music-player-backend",
+  "version": "1.0.0",
+  "description": "Express backend for the music player: serves playlist metadata and streams audio with HTTP range support.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "generate-audio": "node generate-audio.js",
+    "prestart": "node generate-audio.js",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "morning-pulse",
+    "title": "Morning Pulse",
+    "artist": "Local Oscillator",
+    "duration": 24,
+    "file": "morning-pulse.wav"
+  },
+  {
+    "id": "city-lights",
+    "title": "City Lights",
+    "artist": "Signal Room",
+    "duration": 28,
+    "file": "city-lights.wav"
+  },
+  {
+    "id": "quiet-orbit",
+    "title": "Quiet Orbit",
+    "artist": "Patch Bay",
+    "duration": 32,
+    "file": "quiet-orbit.wav"
+  },
+  {
+    "id": "late-train",
+    "title": "Late Train",
+    "artist": "Wave Table",
+    "duration": 26,
+    "file": "late-train.wav"
+  }
+]

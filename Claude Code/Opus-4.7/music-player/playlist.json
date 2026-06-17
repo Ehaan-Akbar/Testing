@@ -1,0 +1,7 @@
+[
+  { "id": "track1", "title": "Sunrise Pulse",    "artist": "Demo Artist A", "file": "track1.wav", "tone": 261.63, "seconds": 20 },
+  { "id": "track2", "title": "Midnight Drift",   "artist": "Demo Artist B", "file": "track2.wav", "tone": 329.63, "seconds": 25 },
+  { "id": "track3", "title": "Ocean Whisper",    "artist": "Demo Artist C", "file": "track3.wav", "tone": 392.00, "seconds": 18 },
+  { "id": "track4", "title": "Neon Corridor",    "artist": "Demo Artist D", "file": "track4.wav", "tone": 440.00, "seconds": 22 },
+  { "id": "track5", "title": "Paper Lanterns",   "artist": "Demo Artist E", "file": "track5.wav", "tone": 523.25, "seconds": 15 }
+]
